@@ -1,6 +1,6 @@
 # HelloCoinbase
 
-**TODO: Add description**
+**This is to aggregate trades from Coinbase**
 
 ## Installation
 
